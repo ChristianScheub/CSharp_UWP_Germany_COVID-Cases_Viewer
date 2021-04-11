@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ru"
+"ResourceDimensions"		"language-ru-ru"
+
+[Files]
+"C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\obj\ARM\Release\Upload\split.language-ru.pri"			"resources.pri"

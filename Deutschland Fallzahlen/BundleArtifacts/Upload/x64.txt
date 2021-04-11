@@ -1,0 +1,2 @@
+MainPackage=C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Release\Upload\Deutschland Fallzahlen_1.0.0.0_x64.msix
+SymbolPackage=C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Release\Upload\Deutschland Fallzahlen_1.0.0.0\Deutschland Fallzahlen_1.0.0.0_x64.appxsym

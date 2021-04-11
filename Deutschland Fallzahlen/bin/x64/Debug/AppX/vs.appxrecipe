@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-0ERH70K</Machine>
+    <WindowsUser>chris</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>D0CA6142-D9B6-4116-95AB-C1428899C33D</PackageIdentityName>
+    <PackageIdentityPublisher>CN=chris</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>0F65FB6C183F855F54B14350D9F560CA4601C69732D72CF9733BFE138158C31F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>D0CA6142-D9B6-4116-95AB-C1428899C33D_1.0.0.0_x64__p2wxv0ry6mv8g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>D0CA6142-D9B6-4116-95AB-C1428899C33D_p2wxv0ry6mv8g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>D0CA6142-D9B6-4116-95AB-C1428899C33D</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=chris</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-11T00:04:03.686</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Deutschland_Fallzahlen.exe">
+      <PackagePath>entrypoint\Deutschland_Fallzahlen.exe</PackagePath>
+      <Modified>2021-04-11T00:04:01.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\.nuget\packages\microsoft.toolkit.uwp.notifications\6.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+      <Modified>2020-08-12T20:29:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2019-04-26T23:06:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2019-04-26T23:06:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2019-11-08T23:56:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T17:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen.Core\bin\Debug\netstandard2.0\Deutschland Fallzahlen.Core.dll">
+      <PackagePath>Deutschland Fallzahlen.Core.dll</PackagePath>
+      <Modified>2021-04-10T00:41:06.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T16:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2021-04-10T23:58:29.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <Modified>2021-04-10T23:58:29.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <Modified>2021-04-10T23:58:29.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <Modified>2021-04-10T23:58:29.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.551</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-04-10T00:22:39.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2021-04-10T23:58:29.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:29.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-04-10T23:58:28.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-04-10T00:22:39.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Deutschland_Fallzahlen.xr.xml">
+      <PackagePath>Deutschland_Fallzahlen.xr.xml</PackagePath>
+      <Modified>2021-04-11T00:04:01.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Styles\Page.xbf">
+      <PackagePath>Styles\Page.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Styles\_Colors.xbf">
+      <PackagePath>Styles\_Colors.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Styles\_FontSizes.xbf">
+      <PackagePath>Styles\_FontSizes.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Styles\_Thickness.xbf">
+      <PackagePath>Styles\_Thickness.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Styles\TextBlock.xbf">
+      <PackagePath>Styles\TextBlock.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Views\SettingsPage.xbf">
+      <PackagePath>Views\SettingsPage.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Views\ShellPage.xbf">
+      <PackagePath>Views\ShellPage.xbf</PackagePath>
+      <Modified>2021-04-11T00:04:01.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\X64\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2019-03-18T17:50:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T15:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2020-07-09T22:07:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-04-11T00:04:02.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chris\source\repos\Deutschland Fallzahlen\Deutschland Fallzahlen\bin\x64\Debug\Core\Deutschland_Fallzahlen.exe">
+      <PackagePath>Deutschland_Fallzahlen.exe</PackagePath>
+      <Modified>2021-04-11T00:04:03.683</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx">
+      <Name>Microsoft.UI.Xaml.2.4</Name>
+      <Version>2.42007.9001.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\chris\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
